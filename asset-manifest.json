@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JuliaLom/Budget-Calculator-gitpage/static/css/main.0da9e578.css",
+    "main.js": "/JuliaLom/Budget-Calculator-gitpage/static/js/main.85f4c205.js",
+    "static/js/787.e32c472c.chunk.js": "/JuliaLom/Budget-Calculator-gitpage/static/js/787.e32c472c.chunk.js",
+    "index.html": "/JuliaLom/Budget-Calculator-gitpage/index.html",
+    "main.0da9e578.css.map": "/JuliaLom/Budget-Calculator-gitpage/static/css/main.0da9e578.css.map",
+    "main.85f4c205.js.map": "/JuliaLom/Budget-Calculator-gitpage/static/js/main.85f4c205.js.map",
+    "787.e32c472c.chunk.js.map": "/JuliaLom/Budget-Calculator-gitpage/static/js/787.e32c472c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0da9e578.css",
+    "static/js/main.85f4c205.js"
+  ]
+}
